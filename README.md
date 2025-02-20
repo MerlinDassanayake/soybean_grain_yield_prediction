@@ -50,3 +50,7 @@ The dataset contains 320 rows and 11 features, including:
 1. Clone the repository:
    ```bash
    git clone https://github.com/MerlinDassanayake/soybean_grain_yield_prediction.git
+
+## References
+- de Oliveira, B. R., et al. (2023). Dataset: Forty soybean cultivars from subsequent harvests. Trends in Agricultural and Environmental Sciences, e230005.
+- UCI Machine Learning Repository: [Forty Soybean Cultivars Dataset](https://archive.ics.uci.edu/dataset/913/forty+soybean+cultivars+from+subsequent+harvests)
