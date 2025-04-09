@@ -43,7 +43,6 @@ The dataset contains 320 rows and 11 features, including:
 
 ## Repository Structure
 - `DassanayakeM.DA5030.Project.Rmd`: R Markdown file containing the full analysis.
-- `data.csv`: Dataset used for the analysis.
 - `README.md`: This file.
 
 ## How to Run
